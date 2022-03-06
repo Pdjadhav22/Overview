@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prem Dilip Jadhav 👋💻</h1>
 <br>
-<img src="https://d35fo82fjcw0y8.cloudfront.net/2016/07/03210503/data-science.png" alt="Cover Pic">
+<img src="https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg" alt="Cover Pic">
 <br>
 ## 💼 Job Preference ...
 
